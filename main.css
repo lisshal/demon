@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@600;700&family=DynaPuff&family=Roboto:ital,wght@1,300&display=swap');
+
+div {
+    display: flex;
+    align-items: center;
+  }
+
+body {
+    background-image: url(img/background1.jpg);
+    background-color: #ffd2d2;
+    
+   }
+
+   .head-text{
+    font-family:'Caveat', cursive;
+    font-size:25pt;
+    justify-content:center;
+    color: rgb(176, 74, 95);
+}
+
+.starttext {
+    margin-top: 30px;
+    font-family:'Caveat', cursive;
+    font-size: 35pt;
+    justify-content:center;
+}
+
+.image {
+    justify-content:center;
+  
+} 
+
+img {
+    margin-right: 35px;
+}
+.ula {
+    margin-top: 12pt;
+    margin-right: 780px;
+    justify-content:center;
+    font-family:'Caveat', cursive;
+    font-size: 30pt;
+    color: rgb(133, 54, 69);
+    
+}
+
+
+.listcontainer {
+    justify-content:center;
+}
+
+.tails {
+    margin-top: 30px;
+    font-family:'Caveat', cursive;
+    font-size: 35pt;
+    justify-content:center;
+}
+ 
